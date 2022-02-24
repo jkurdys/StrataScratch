@@ -12,6 +12,7 @@ This repository holds solutions to my completed [StrataScratch](https://platform
 
 * Without access to the underlying databases and tables, the SQL files won't run
 * SQL files written to PostgreSQL standards
+* Pandas
 
 ### Completed Challenges
 
@@ -19,6 +20,7 @@ All completed challanges can be found in the src folder
 
 * Salaries Differences
 * Finding Updated Records
+* Customer Details
 
 <!-- ### Installing
 
