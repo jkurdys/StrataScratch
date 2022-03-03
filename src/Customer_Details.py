@@ -17,4 +17,9 @@ Expected Output Type: pandas.DataFrame
 
 import pandas as pd
 
-customers.set_index('id').join(orders.set_index('cust_id'))
+customers[['id',
+           'first_name',
+           'last_name',
+           'city']].set_index('id').join(orders[['cust_id',
+                                                 'order_details']].set_index('cust_id'
+                                                 )).sort_values('first_name')

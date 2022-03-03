@@ -18,9 +18,11 @@ This repository holds solutions to my completed [StrataScratch](https://platform
 
 All completed challanges can be found in the src folder
 
-* Salaries Differences
-* Finding Updated Records
+* Salaries Differences (SQL)
+* Finding Updated Records (SQL)
 * Customer Details
+    * Python
+    * SQL
 
 <!-- ### Installing
 
