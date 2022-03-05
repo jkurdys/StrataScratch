@@ -23,6 +23,9 @@ All completed challanges can be found in the src folder
 * Customer Details
     * Python
     * SQL
+* Number Of Bathrooms And Bedrooms
+    * Python
+    * SQL
 
 <!-- ### Installing
 
